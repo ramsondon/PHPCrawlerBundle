@@ -1,7 +1,7 @@
 {
-    "name": "acassan/php-crawler",
+    "name": "ramsondon/php-crawler",
     "type": "symfony-bundle",
-    "description": "Symfony 2 PHPCrawler",
+    "description": "acassan PHPCrawler without symfony dependencies",
     "keywords": ["phpcrawler"],
     "license": "GPL-3.0+",
     "authors": [
@@ -9,6 +9,10 @@
             "name": "Alexis Cassan",
             "email": "contact@alexiscassan.fr",
             "homepage": "http://www.alexiscassan.fr"
+        },
+        {
+            "name": "Matthias Schmid",
+            "email": "ramsondon@gmail.com"
         }
     ],
     "require": {
@@ -16,7 +20,7 @@
     },
     "autoload": {
         "psr-0": {
-            "PHPCrawler": "src"
+            "PHPCrawler": "vendor/ramsondon/php-crawler/src"
         }
     }
 }
