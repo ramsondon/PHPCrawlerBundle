@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-0": {
-            "PHPCrawler": "vendor/ramsondon/php-crawler/src"
+            "PHPCrawler": "src"
         }
     }
 }
