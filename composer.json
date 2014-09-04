@@ -1,6 +1,6 @@
 {
     "name": "ramsondon/php-crawler",
-    "type": "symfony-bundle",
+    "type": "library",
     "description": "acassan PHPCrawler without symfony dependencies",
     "keywords": ["phpcrawler"],
     "license": "GPL-3.0+",
