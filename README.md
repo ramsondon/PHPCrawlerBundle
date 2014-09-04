@@ -1,4 +1,4 @@
 PHPCrawlerBundle
 ================
 
-PHPCrawler bundle for symfony 2
+PHPCrawler bundle, namespaced and installable via composer
